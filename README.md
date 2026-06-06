@@ -126,7 +126,7 @@ npm run dev
 
 ## Live Demo
 
-Frontend: https://YOUR-VERCEL-URL.vercel.app
+Frontend: https://expense-tracker-l7iz71plu-piyush-aryas-projects.vercel.app/
 
 Backend: https://expense-tracker-do95.onrender.com
 
