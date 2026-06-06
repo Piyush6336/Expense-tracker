@@ -1,4 +1,4 @@
-export const API_URL = "http://localhost:5000/api";
+export const API_URL = "https://expense-tracker-do95.onrender.com";
 
 export async function apiRequest(endpoint, options = {}) {
   const headers = {
